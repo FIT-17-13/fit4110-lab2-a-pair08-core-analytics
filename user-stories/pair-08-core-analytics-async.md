@@ -13,7 +13,7 @@ Core Business feed alert/policy decision event cho Analytics để tính KPI v�
 Ở Lab 02 chỉ thống nhất payload gồm decisionId, policyId, subjectId, result, reason, timestamp.
 
 ## 4. Endpoint / Event trọng tâm
-
+    
 - `Event policy.decision.created`
 - `Event alert.created`
 - `Event alert.resolved`
