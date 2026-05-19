@@ -271,16 +271,16 @@ Hoàn thiện 3 phần:
 
 Trước khi rời phòng, cặp đàm phán kiểm tra:
 
-- [ ] `openapi.yaml` dùng OpenAPI 3.1.0.
-- [ ] `openapi.yaml` pass Spectral, không có severity error.
-- [ ] `negotiation-log.md` có tối thiểu 6 issue.
-- [ ] Có chữ ký Provider, Consumer, Witness.
-- [ ] Có `analysis-provider.md`.
-- [ ] Có `analysis-consumer.md`.
-- [ ] Có `spectral-report.txt`.
-- [ ] Có 5 ảnh mock server.
-- [ ] Có commit cuối theo mẫu `chore(contract): <cap> v1.0 signed-off`.
-- [ ] `README.md` mô tả được cách chạy mock.
+- [ X] `openapi.yaml` dùng OpenAPI 3.1.0.
+- [ X] `openapi.yaml` pass Spectral, không có severity error.
+- [ X] `negotiation-log.md` có tối thiểu 6 issue.
+- [ X] Có chữ ký Provider, Consumer, Witness.
+- [ X] Có `analysis-provider.md`.
+- [ X] Có `analysis-consumer.md`.
+- [ X] Có `spectral-report.txt`.
+- [ X] Có 5 ảnh mock server.
+- [ X] Có commit cuối theo mẫu `chore(contract): <cap> v1.0 signed-off`.
+- [ X] `README.md` mô tả được cách chạy mock.
 
 ---
 

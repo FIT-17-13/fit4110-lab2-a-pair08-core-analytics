@@ -1,0 +1,17 @@
+{
+  "eventId": "EVT-001",
+  "eventType": "policy.decision.created",
+  "eventVersion": "1.0.0",
+  "occurredAt": "2026-05-19T10:00:00Z",
+  "source": "core-business",
+  "correlationId": "CORR-001",
+  "data": {
+    "decisionId": "DEC-001",
+    "ruleCode": "ACCESS_AFTER_HOURS",
+    "decision": "deny",
+    "targetType": "access_event",
+    "targetId": "ACC-001",
+    "severity": "high",
+    "reason": "Access outside allowed time"
+  }
+}
